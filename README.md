@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Zerobell%20Lee%20😎&fontSize=45&fontAlign=50&fontAlignY=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Zerobell%20Lee%20😎&fontSize=45&fontAlign=50&fontAlignY=40&fontColor=ffffff" style="width: 100%;" />
 
 # 👋 Welcome to My GitHub!  
 > Backend Engineer @ LINE Plus | 6+ years experience | ⚡ Builder of Fun & Useful Things
@@ -78,4 +78,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=150&section=footer" style="width: 100%;" />
