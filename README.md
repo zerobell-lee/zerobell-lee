@@ -45,7 +45,7 @@
 ## 🎯 Side Projects
 - 🖥️ **[Akagaku](https://github.com/zerobell-lee/akagaku)** → Electron-based desktop assistant inspired by Ukagaka  
 - 📺 **[Streamlink Dashboard](https://github.com/zerobell-lee/streamlink-dashboard)** → Dockerized tool for auto-recording live streams  
-- 🔖 **[Bookmark Plus](https://github.com/zerobell-lee/bookmark-plus)** → Chrome extension for smarter bookmark management  
+- 🔖 **[Bookmark Plus](https://github.com/zerobell-lee/bookmark-plus-extension)** → Chrome extension for smarter bookmark management  
 - 🌑 **Darkmode-forced Extension (dev)** → Turn non-dark-mode sites into custom dark themes  
 - 🎮 **[Pixel Quiz](https://pixel-quiz.com)** → Pixel-art based quiz web game  
 - 💬 **[ChatLogAnalyzer](https://github.com/zerobell-lee/ChatLogAnalyzer)** → Chat log analysis & visualization tool  
